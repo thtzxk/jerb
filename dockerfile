@@ -1,0 +1,1 @@
+FROM yuxiaoyao520/jrebel-license-active-server:latest
